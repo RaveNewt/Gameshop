@@ -1,0 +1,54 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+nav{
+    font-size: 18px;
+}
+
+.medium{
+    font-weight: 500;
+}
+
+.text-primary{
+    color: #09006F !important;
+}
+
+.btn-primary{
+    background-color:#95E5FF;
+    font-weight: 500;
+    font-size: 18px;
+    color: #09006F;
+    border:0
+}
+
+.btn-primary:hover{
+    background-color:#78c9e4;
+    border:0;
+    color: #09006F;
+}
+
+.nav-link:hover{
+    color: #09006F !important;
+}
+
+.nav-link{
+    color: #888EA3 !important;
+}
+
+li{
+    font-weight: 500;
+}
+
+.nav-link.active{
+    color: #09006F !important;
+    font-weight: 500;
+}
+
+.nav-item{
+    margin-left: 40px;
+}
+
+.navbar-default.navbar-nav>li>a{
+    color: #09006F;
+}
